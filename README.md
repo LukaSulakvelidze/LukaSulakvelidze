@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luka Sulakvelidze</h1>
-<h3 align="center">A passionate web developer from Georgia</h3>
+<h3 align="center">A passionate react native developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasulakvelidze&label=Profile%20views&color=0e75b6&style=flat" alt="lukasulakvelidze" /> </p>
 
-- 🌱 I’m currently learning **React Native, Swift**
+- 🌱 I’m currently learning **Swift**
 
-- 💬 Ask me about **javaScript, Typescript, React.js, Next.js**
+- 💬 Ask me about **javaScript, Typescript, React.js**
 
 - 📫 How to reach me **luka99258@gmail.com**
 

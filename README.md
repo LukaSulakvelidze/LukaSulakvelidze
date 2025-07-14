@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luka Sulakvelidze</h1>
-<h3 align="center">A passionate react native developer from Georgia</h3>
+<h3 align="center">A passionate React Native Developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasulakvelidze&label=Profile%20views&color=0e75b6&style=flat" alt="lukasulakvelidze" /> </p>
 

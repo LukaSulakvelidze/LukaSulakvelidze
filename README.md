@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **javaScript, Typescript, React.js**
 
-- 📫 How to reach me **luka99258@gmail.com**
+- 📫 How to reach me **luka.sulakvelidze1@gmail.com**
 
 - ⚡ Fun fact **My dog, Gigi, is my constant coding companion. He even has his own GitHub account (with a little help from me)!**
 
